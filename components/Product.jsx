@@ -208,5 +208,6 @@ const Product = () => {
     
     )
 }
+  {/* Space for next section */}
 
 export default Product
