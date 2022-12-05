@@ -50,6 +50,7 @@ const Product = () => {
                 })}
               </div>
             </div>
+<<<<<<< HEAD
 
             {/* section below image section */}
 
@@ -467,3 +468,12 @@ const Product = () => {
 };
 
 export default Product;
+=======
+        </div>
+    
+    )
+}
+  {/* Space for next section */}
+
+export default Product
+>>>>>>> 53ff9835f91d389bd01e24408f077767abc463eb
