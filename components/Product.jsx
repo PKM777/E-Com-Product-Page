@@ -474,6 +474,7 @@ export default Product;
     )
 }
   {/* Space for next section */}
+{/* unique key for each list item is missing */}
 
 export default Product
 >>>>>>> 53ff9835f91d389bd01e24408f077767abc463eb
